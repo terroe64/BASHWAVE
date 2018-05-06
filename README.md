@@ -12,9 +12,10 @@ Why would you want to do that? Say you know you're going to be somewhere without
 Genius I know!
 
 ## Setup
-BASHWAVE (Realname TBA) doesn't just work the instant you download it. WAIT DON'T LEAVE IT'S REAL EASY! All you gotta do is open up the python script in whatever text editor you want to, the fill out the three variables at the top. There's even comments and arrows and stuff point at them, real easy to find. 
-
+BASHWAVE (Realname TBA) doesn't just work the instant you download it. WAIT DON'T LEAVE IT'S REAL EASY! All you gotta do is open up the python script in whatever text editor you want to, then fill out the three variables at the top. There's even comments and arrows and stuff pointing at them, real easy to find.
 Actually once you get into the script there will be plenty of comments explaining what it is you need to do, which isn't much.
+And those comments are probably more coeherrient than this README concidering the lack of effort I'm putting into it!
+
 
 ## "HELP I'M SUPER CONFUSED" SECTION:
 If you're really confused, feel free to message me at either "#aisuite" or "##aisuite" on freenode. Trust me I have *nothing* better to do, so don't be shy.
